@@ -8,7 +8,7 @@ How does it work?
 - The users can enjoy the recommendations and repeat the search how many time they like :)
 
   Team:
-  Alice De Ghetto
-  Noelia Oriola Escobar
-  Olabisi Matthew
-  Tarasova Tatyana
+    Alice De Ghetto
+    Noelia Oriola Escobar
+    Olabisi Matthew
+    Tarasova Tatyana
