@@ -9,6 +9,9 @@ How does it work?
 
   Team:
     Alice De Ghetto
+  
     Noelia Oriola Escobar
+  
     Olabisi Matthew
+  
     Tarasova Tatyana
