@@ -1,4 +1,4 @@
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;[![logo](https://github.com/petrarkaselin/song_recommender/blob/main/ironhack_logo.png)](https://github.com/petrarkaselin/song_recommender/blob/main/ironhack_logo.png = 300*300)
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;[![logo](https://github.com/petrarkaselin/song_recommender/blob/main/ironhack_logo.png  = 300*300)](https://github.com/petrarkaselin/song_recommender/blob/main/ironhack_logo.png)
 
 # Song Recommender
 Our **Song Recommender** app is like your personal music matchmaker! Just tell us a song and artist you love, and we'll handpick five more tracks that we think you'll absolutely adore. It's all about making your music journey more personalized and enjoyable!
