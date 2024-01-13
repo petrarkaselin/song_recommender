@@ -1,18 +1,13 @@
-Our song recommender app is designed to take a song and an artists our users love and recommend them 5 other similar songs from Spotify to fall in love with.
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;[![logo](https://github.com/petrarkaselin/song_recommender/blob/main/ironhack_logo.png)](https://github.com/petrarkaselin/song_recommender/blob/main/ironhack_logo.png)
 
-How does it work?
-- Our algorithm takes the user's song and fetches the song's audio features from Spotify over the unique song ID
-- The user song is compared against our database of popular songs: the top100 from Billboard and ~2500 other popular songs, all clustered by our algorithm based on their audio features to group their overall mood
-- If the user song is one of the Billboard Top100, our app recommends another 5 songs from the Top100 belonging to the same cluster, a.k.a. with a similar mood and feeling
-- If the user song is not one of the Billboard Top100, the app recommends another 5 similar songs from the remaining ~2500 popular songs in our database, also based on their clustering like the above.
-- The users can enjoy the recommendations and repeat the search how many time they like :)
-
-  Team:
-  
-    Alice De Ghetto
-  
-    Noelia Oriola Escobar
-  
-    Olabisi Matthew
-  
-    Tarasova Tatyana
+# Song Recommender
+Our **Song Recommender** app is like your personal music matchmaker! Just tell us a song and artist you love, and we'll handpick five more tracks that we think you'll absolutely adore. It's all about making your music journey more personalized and enjoyable!
+### Team:
+##### &emsp;   Alice De Ghetto
+##### &emsp;   Noelia Oriola Escobar
+##### &emsp;   Olabisi Matthew
+##### &emsp;   Tatyana Tarasova
+###
+#### Criteria for recommendations:
+- Songs that are actually similar to the ones they picked from an acoustic point of view.
+- Songs that are popular around the world right now, independently from their tastes.
