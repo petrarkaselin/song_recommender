@@ -1,4 +1,4 @@
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;[![logo](https://github.com/petrarkaselin/song_recommender/blob/main/ironhack_logo.png)](https://github.com/petrarkaselin/song_recommender/blob/main/ironhack_logo.png)
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;[![logo](https://github.com/petrarkaselin/song_recommender/blob/main/ironhack_logo.png)](https://github.com/petrarkaselin/song_recommender/blob/main/ironhack_logo.png)
 
 # Song Recommender
 Our **Song Recommender** app is like your personal music matchmaker! Just tell us a song and artist you love, and we'll handpick five more tracks that we think you'll absolutely adore. It's all about making your music journey more personalized and enjoyable!
@@ -24,7 +24,10 @@ To create an algorithm that takes the user's song and fetches the song's audio f
 #### Datasets
 - Top 100 Songs from Billboard
 - 2500 Songs 
+
 ![dataset](https://github.com/petrarkaselin/song_recommender/blob/main/presentation/dataset.jpg)
+
+#### Methods:
 - Data collection:
     - HTML - WebScraping
     - Spotify's API
