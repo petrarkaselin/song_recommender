@@ -25,8 +25,7 @@ To create an algorithm that takes the user's song and fetches the song's audio f
 #### Datasets
 - Top 100 Songs from Billboard
 - 2500 Songs 
-[![dataset_1](https://github.com/petrarkaselin/song_recommender/blob/main/presentation/dataset_1.jpg)](https://github.com/petrarkaselin/song_recommender/blob/main/presentation/dataset_1.jpg)[![dataset_2](https://github.com/petrarkaselin/song_recommender/blob/main/presentation/dataset_1.jpg)](https://github.com/petrarkaselin/song_recommender/blob/main/presentation/dataset_1.jpg)
-
+![dataset_1](https://github.com/petrarkaselin/song_recommender/blob/main/presentation/dataset_1.jpg) ![dataset_2](https://github.com/petrarkaselin/song_recommender/blob/main/presentation/dataset_2.jpg)
 #### Methods:
 - Data collection:
     - HTML - WebScraping
